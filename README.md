@@ -63,6 +63,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Santiment](https://santiment.net) — On-chain, social, and development activity metrics.
 - [Parsec](https://parsec.fi) — Real-time DeFi analytics and position monitoring.
 - [DeBank](https://debank.com) — Multi-chain DeFi portfolio and whale tracking.
+- [Bitcoin Bottom Score](https://bitcoinbottom.app) — Free Bitcoin market cycle bottom probability tracker. Aggregates 25 on-chain signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, Fear & Greed, etc.) into a single daily score.
 
 ## Portfolio Trackers
 
