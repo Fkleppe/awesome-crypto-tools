@@ -103,6 +103,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Binance Research](https://research.binance.com) — Market analysis and industry reports.
 - [CoinDesk](https://coindesk.com) — Legacy crypto news publication.
 - [The Defiant](https://thedefiant.io) — DeFi-focused news and interviews.
+- [Web3 Discover](https://web3-discover.vercel.app) — Hand-vetted directory of currently-claimable airdrops with deadline tracking and "last verified" stamps; ships a paste-your-wallet eligibility checker.
 
 ## Developer Tools
 
