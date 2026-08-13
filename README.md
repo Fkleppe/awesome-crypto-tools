@@ -7,6 +7,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 ## Contents
 
 - [Price Tracking & Market Data](#price-tracking--market-data)
+- [n8n Solana Wallet & Price Watcher](https://negozio.mooo.com?src=fkleppe-cryptotools) — ready-to-use n8n workflow that monitors Solana wallets/token prices and alerts on change. USDC payment, instant delivery, no subscription.
 - [Derivatives & Perpetual Futures](#derivatives--perpetual-futures)
 - [Exchange Reviews & Comparisons](#exchange-reviews--comparisons)
 - [Bonuses & Promotions](#bonuses--promotions)
