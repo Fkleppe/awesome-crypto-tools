@@ -66,6 +66,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 
 ## Portfolio Trackers
 
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 - [CoinStats](https://coinstats.app) — Portfolio tracker with exchange and wallet sync.
 - [Delta](https://delta.app) — Multi-asset portfolio tracker with crypto support.
 - [Zapper](https://zapper.xyz) — DeFi portfolio management across chains.
