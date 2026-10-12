@@ -30,6 +30,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [CryptoCompare](https://cryptocompare.com) — Real-time and historical crypto data with exchange reviews.
 - [LiveCoinWatch](https://livecoinwatch.com) — Real-time price tracking with portfolio features.
 - [Nomics](https://nomics.com) — Clean, institutional-grade market data API.
+- [FerimanEdge Regime Tracker](https://ferimanedge.com/regime) - Free rule-based market regime tracking for BTC, ETH and BNB, with hourly updates and optional Discord notifications.
 
 ## Derivatives & Perpetual Futures
 
