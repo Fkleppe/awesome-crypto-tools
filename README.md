@@ -16,6 +16,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [NFT Tools](#nft-tools)
 - [Tax & Compliance](#tax--compliance)
 - [News & Research](#news--research)
+- [Directories & Hubs](#directories--hubs)
 - [Developer Tools](#developer-tools)
 - [Security](#security)
 - [Communities](#communities)
@@ -103,6 +104,10 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Binance Research](https://research.binance.com) — Market analysis and industry reports.
 - [CoinDesk](https://coindesk.com) — Legacy crypto news publication.
 - [The Defiant](https://thedefiant.io) — DeFi-focused news and interviews.
+
+## Directories & Hubs
+
+- [QklHub](https://qklhub.com) — Chinese-language crypto navigation hub mapping official exchange entries, on-chain tools, Bitcoin ETF flows, and macro dashboards.
 
 ## Developer Tools
 
