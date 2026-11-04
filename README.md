@@ -19,6 +19,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Developer Tools](#developer-tools)
 - [Security](#security)
 - [Communities](#communities)
+- [Tool Directories](#tool-directories)
 
 ## Price Tracking & Market Data
 
@@ -132,6 +133,10 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Crypto Twitter](https://twitter.com/i/lists) — Follow key accounts for real-time alpha.
 
 ---
+
+## Tool Directories
+
+- [18btc](https://18btc.cc) — Curated crypto tools directory with hands-on reviews: market data, on-chain analytics, DeFi data, wallets, security tools and office tools, including a built-in per-share crypto calculator and an Excel-to-Word generator. Bilingual Chinese/English.
 
 ## Contributing
 
