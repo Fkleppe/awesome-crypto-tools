@@ -47,6 +47,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [CoinGecko Trust Score](https://coingecko.com/en/exchanges) — Exchange rankings based on liquidity, scale, and cybersecurity.
 - [CryptoCompare Exchange Benchmark](https://cryptocompare.com/exchanges) — Exchange ratings across 30+ data points.
 - [The Block Exchange Data](https://theblock.co/data/crypto-markets/spot) — Institutional-grade exchange volume and flow data.
+- [CostDepth](https://www.costdepth.io/compare) — Compares the cost of a trade across 17 exchanges by adding spread and slippage from each live order book to the official VIP 0 fee.
 
 ## Bonuses & Promotions
 
