@@ -23,6 +23,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 ## Price Tracking & Market Data
 
 - [2Bitcoins](https://2bitcoins.com) — Live Bitcoin and crypto prices with exchange reviews, trading tools, and educational guides.
+- [ChartSight](https://www.chartsight.net/en) — Compare historical Binance BTC/USDT setups and later closing-price outcomes, with sample counts and time horizons; not forecasts.
 - [CoinGecko](https://coingecko.com) — Comprehensive price tracking for 10,000+ coins with developer API.
 - [CoinMarketCap](https://coinmarketcap.com) — Widely used crypto market cap rankings and price data.
 - [TradingView](https://tradingview.com) — Advanced charting platform with crypto pairs across all major exchanges.
