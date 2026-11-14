@@ -103,6 +103,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Binance Research](https://research.binance.com) — Market analysis and industry reports.
 - [CoinDesk](https://coindesk.com) — Legacy crypto news publication.
 - [The Defiant](https://thedefiant.io) — DeFi-focused news and interviews.
+- [链小知区块链](https://lianxiaozhi.com) — Chinese-language blockchain news, source-linked event timelines, daily briefs, and onchain tool guides.
 
 ## Developer Tools
 
