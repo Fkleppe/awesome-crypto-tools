@@ -8,7 +8,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 
 - [Price Tracking & Market Data](#price-tracking--market-data)
 - [Derivatives & Perpetual Futures](#derivatives--perpetual-futures)
-- [Exchange Reviews & Comparisons]* [Cryptange Fee Calculator](https://cryptange.com/crypto-exchange-fee-calculator) — Free tool to estimate and compare spot and futures trading fees across cryptocurrency exchanges.
+- [Cryptange Fee Calculator](https://cryptange.com/crypto-exchange-fee-calculator) — Free tool to estimate and compare spot and futures trading fees across cryptocurrency exchanges.
 - [Bonuses & Promotions](#bonuses--promotions)
 - [On-Chain Analytics](#on-chain-analytics)
 - [Portfolio Trackers](#portfolio-trackers)
