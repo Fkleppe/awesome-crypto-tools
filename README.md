@@ -39,7 +39,8 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Laevitas](https://laevitas.ch) — Derivatives analytics covering perps, options, and volatility surfaces.
 - [DefiLlama Derivatives](https://defillama.com/derivatives) — DEX derivatives volume and TVL tracking.
 - [Velo Data](https://velo.xyz) — Institutional-grade crypto derivatives data.
-
+- [Cryptange Fee Calculator](https://cryptange.com/crypto-exchange-fee-calculator) — Free tool to estimate and compare spot and futures trading fees across cryptocurrency exchanges.
+  
 ## Exchange Reviews & Comparisons
 
 - [2Bitcoins Exchange Reviews](https://2bitcoins.com/exchanges) — In-depth exchange reviews with fee comparisons and methodology.
