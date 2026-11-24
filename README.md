@@ -39,6 +39,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Laevitas](https://laevitas.ch) — Derivatives analytics covering perps, options, and volatility surfaces.
 - [DefiLlama Derivatives](https://defillama.com/derivatives) — DEX derivatives volume and TVL tracking.
 - [Velo Data](https://velo.xyz) — Institutional-grade crypto derivatives data.
+- [Futures PnL Calculator](https://dtpnm857jk-create.github.io/futures-pnl-calculator/) — Free browser-based crypto futures PnL, liquidation price, and funding fee calculators (no sign-up).
 
 ## Exchange Reviews & Comparisons
 
